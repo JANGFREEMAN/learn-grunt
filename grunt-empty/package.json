@@ -1,0 +1,15 @@
+{
+  "name": "grunt-empty",
+  "version": "1.0.0",
+  "description": "learn-grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0"
+  }
+}
